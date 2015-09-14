@@ -1,5 +1,5 @@
-#version 150
-
+#version 130
+//changed from 150 to 130
 out vec4 fragColor;
 
 void main ()
